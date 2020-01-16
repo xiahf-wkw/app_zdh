@@ -14,5 +14,6 @@ a.click()
 time.sleep(2)
 b = driver.find_element_by_accessibility_id("登录领5元红包")
 b.click()
+print("111")
 
 
